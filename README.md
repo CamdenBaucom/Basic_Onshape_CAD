@@ -15,3 +15,9 @@ Fork: A fun complex piece crancked out in less than 10 minutes
 ![CasterPart3](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart3Pic.png)
 
 [Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/e44f26447b3509017bddb82c)
+
+Tire: Quick and easy piece, and my first time using revolve in Onshape
+
+![CasterPart4](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart4Pic.png)
+
+[Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/f36824bdadc963828e38a5b2)
