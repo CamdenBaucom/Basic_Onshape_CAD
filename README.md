@@ -21,3 +21,9 @@ Tire: Quick and easy piece, and my first time using revolve in Onshape
 ![CasterPart4](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart4Pic.png)
 
 [Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/f36824bdadc963828e38a5b2)
+
+Wheel: Another fun piece created with revolve, and it looks great without edges
+
+![CasterPart5](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart5Pic.png)
+
+[Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/d77e1f783b5e36f069eb9c05)
