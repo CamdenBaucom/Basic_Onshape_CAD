@@ -36,12 +36,12 @@ Axle and Collar: Two simple parts created inside of 1 part studio using some of 
 
 Washer: Very basic part, done in less than 10 clicks
 
-![CasterPart8](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart5Pic.png)
+![CasterPart8](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart8Pic.png)
 
 [Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/c2bd673a777ebae8f49af381)
 
 Bearing: Another easy part, created inside of the Wheel part studio
 
-![CasterPart9](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart5Pic.png)
+![CasterPart9](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart9Pic.png)
 
 [Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/d77e1f783b5e36f069eb9c05)
