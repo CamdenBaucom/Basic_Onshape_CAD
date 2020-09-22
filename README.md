@@ -27,3 +27,21 @@ Wheel: Another fun piece created with revolve, and it looks great without edges
 ![CasterPart5](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart5Pic.png)
 
 [Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/d77e1f783b5e36f069eb9c05)
+
+Axle and Collar: Two simple parts created inside of 1 part studio using some of the same geometry
+
+![CasterPart6and7](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart6and7Pic.png)
+
+[Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/2398c4d63225f5a6336b89e1)
+
+Washer: Very basic part, done in less than 10 clicks
+
+![CasterPart8](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart5Pic.png)
+
+[Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/c2bd673a777ebae8f49af381)
+
+Bearing: Another easy part, created inside of the Wheel part studio
+
+![CasterPart9](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart5Pic.png)
+
+[Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/d77e1f783b5e36f069eb9c05)
