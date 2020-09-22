@@ -45,3 +45,9 @@ Bearing: Another easy part, created inside of the Wheel part studio
 ![CasterPart9](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterPart9Pic.png)
 
 [Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/d77e1f783b5e36f069eb9c05)
+
+Subassembly: I got my first taste of Onshape mates and mate connecters, and found them a little tricky but very helpful
+
+![CasterSubassembly](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/CasterSubassembly.png)
+
+[Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/5594cc0430038abcbe4ca23e)
