@@ -1,4 +1,5 @@
 # Basic Onshape CAD
+## Caster
 Base: My first real CAD piece on Onshape. It was very easy to do, and all done from my Chromebook!
 ![CasterPart1](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/OnshapePictures/CasterPart1Pic.png)
 
@@ -57,3 +58,11 @@ Caster: The final product! A great little project that helped me dive a bit into
 ![Caster](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/OnshapePictures/CasterPic.png)
 
 [Check it out](https://cvilleschools.onshape.com/documents/c24abd4ef7ae163edf3f9639/w/32b78c2dc44bf17b4039d287/e/bd6b53bcb493e074e994ab01)
+
+
+## Challenge
+A fun little challenge, that makes an optical illusion! I had a little trouble at the end, trying to find the right mate, but I eventually figured out that it was the Cylindrical Mate, because the axis that revolved, also needed freedom of movement.
+
+![Challenge GIF](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/OnshapePictures/OnshapeChallengeGIF.gif)
+
+[Take a look](https://cvilleschools.onshape.com/documents/93b32a4e77d0893b46e671c9/w/5b19cd4e6d8395d23f9dee89/e/1276e4a176d9944c29812653)
