@@ -66,3 +66,11 @@ A fun little challenge, that makes an optical illusion! I had a little trouble a
 ![Challenge GIF](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/OnshapePictures/OnshapeChallengeGIF.gif)
 
 [Take a look](https://cvilleschools.onshape.com/documents/93b32a4e77d0893b46e671c9/w/5b19cd4e6d8395d23f9dee89/e/1276e4a176d9944c29812653)
+
+
+## Dorothy's Dowel Pins
+A nice introduction to Onshape Configurations, helping to create 32 parts in about the time it takes to make 2.
+
+![Dowel Pin Picture](https://github.com/CamdenBaucom/Basic_Onshape_CAD/blob/master/OnshapePictures/DowelPinPic.png)
+
+[See it for yourself](https://cvilleschools.onshape.com/documents/8ca16b9f2c26d6f331692fb0/w/906d1ea29b61a58acd75bd6f/e/016730937f8d78fab8e37c82)
